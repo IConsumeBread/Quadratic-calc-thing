@@ -1,0 +1,14 @@
+D:\codingthings\sharpstuff\bin\Debug\net10.0\sharpstuff.exe
+D:\codingthings\sharpstuff\bin\Debug\net10.0\sharpstuff.deps.json
+D:\codingthings\sharpstuff\bin\Debug\net10.0\sharpstuff.runtimeconfig.json
+D:\codingthings\sharpstuff\bin\Debug\net10.0\sharpstuff.dll
+D:\codingthings\sharpstuff\bin\Debug\net10.0\sharpstuff.pdb
+D:\codingthings\sharpstuff\obj\Debug\net10.0\sharpstuff.GeneratedMSBuildEditorConfig.editorconfig
+D:\codingthings\sharpstuff\obj\Debug\net10.0\sharpstuff.AssemblyInfoInputs.cache
+D:\codingthings\sharpstuff\obj\Debug\net10.0\sharpstuff.AssemblyInfo.cs
+D:\codingthings\sharpstuff\obj\Debug\net10.0\sharpstuff.csproj.CoreCompileInputs.cache
+D:\codingthings\sharpstuff\obj\Debug\net10.0\sharpstuff.dll
+D:\codingthings\sharpstuff\obj\Debug\net10.0\refint\sharpstuff.dll
+D:\codingthings\sharpstuff\obj\Debug\net10.0\sharpstuff.pdb
+D:\codingthings\sharpstuff\obj\Debug\net10.0\sharpstuff.genruntimeconfig.cache
+D:\codingthings\sharpstuff\obj\Debug\net10.0\ref\sharpstuff.dll
